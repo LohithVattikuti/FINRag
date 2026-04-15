@@ -1,0 +1,14 @@
+venv/
+finrag-env/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+sec_filings/
+sec_chunks/
+mlruns/
+.env
+*.sqlite3
+node_modules/
+dist/
+build/

@@ -1,0 +1,10 @@
+[
+  {
+    "query": "What are Apple's top risk factors mentioned in its latest 10-K?",
+    "positives": ["AAPL_10-K_2024-11-01_chunk5", "AAPL_10-K_2024-11-01_chunk8"]
+  },
+  {
+    "query": "Summarize the management discussion and analysis from Microsoft's 2023 10-K.",
+    "positives": ["MSFT_10-K_2023-10-27_chunk12", "MSFT_10-K_2023-10-27_chunk15"]
+  }
+]
